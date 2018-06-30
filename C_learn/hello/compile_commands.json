@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yuefang/Desktop/c++_test/build",
+  "command": "/usr/bin/gcc     -o CMakeFiles/hello.dir/hello.c.o   -c /home/yuefang/Desktop/c++_test/hello.c",
+  "file": "/home/yuefang/Desktop/c++_test/hello.c"
+}
+]
