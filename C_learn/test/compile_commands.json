@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/yuefang/Desktop/git-ubuntu/Ubuntu_learn/C_learn/test/build",
+  "command": "/usr/bin/gcc     -o CMakeFiles/test.dir/test.c.o   -c /home/yuefang/Desktop/git-ubuntu/Ubuntu_learn/C_learn/test/test.c",
+  "file": "/home/yuefang/Desktop/git-ubuntu/Ubuntu_learn/C_learn/test/test.c"
+}
+]

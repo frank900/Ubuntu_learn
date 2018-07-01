@@ -1,0 +1,8 @@
+1. 
+use // instead of /*...*/ for comments. page 33.
+2.
+printf("dec = %d; octal = %o; hex = %x\n", x, x, x);
+printf("dec = %d; octal = %#o; hex = %#x\n", x, x, x);
+//the output result is 
+dec = 100; octal = 144; hex = 64
+dec = 100; octal = 0144; hex = 0x64

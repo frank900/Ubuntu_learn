@@ -1,0 +1,3 @@
+#open current directory in GUI.
+nautilus .
+
