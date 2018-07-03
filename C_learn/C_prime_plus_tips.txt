@@ -1,8 +1,20 @@
 1. 
 use // instead of /*...*/ for comments. page 33.
+
 2.
 printf("dec = %d; octal = %o; hex = %x\n", x, x, x);
 printf("dec = %d; octal = %#o; hex = %#x\n", x, x, x);
 //the output result is 
 dec = 100; octal = 144; hex = 64
 dec = 100; octal = 0144; hex = 0x64
+
+3.
+a system with a 16-bit int and a 32-bit long treats the integer 7 as 16 bits 
+and the integer 7L as 32 bits. The l and L suffixes can also be used with octal
+and hex integers, as in 020L and 0x10L.
+
+Similarly, on those systems supporting the long long type, you can use an ll or 
+LL suffix to indicate a long long value, as in 3LL . Add a u or U to the suffix 
+for unsigned long long , as in 5ull or 10LLU or 6LLU or 9Ull .
+
+
